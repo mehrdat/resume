@@ -32,6 +32,10 @@
     background-color: #f4f4f4;
 }
 
+.bg-color-work-history {
+    background-color: #9b59b6;
+}
+
 /*----------------------general/text/padding..----------*/
 h1,
 h2,
@@ -65,6 +69,7 @@ h4 {
     float: none;
 }
 
+.history-heading,
 .section-heading {
     font-family: "Exp", sans-serif;
     font-weight: 300;
@@ -290,4 +295,10 @@ footer {
 
 .progress-section {
     margin: 40px 20px;
+}
+
+/*---------------------------------------workhistory-----------*/
+.history-heading {
+    color: #fafafa;
+    margin-bottom: 50px;
 }
